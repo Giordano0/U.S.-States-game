@@ -37,7 +37,7 @@ python main.py
 |------|-------------|
 | main.py | Main game script |
 | 50_states.csv | State names and their x/y coordinates on the map |
-| lank_states_img.gif | The blank US map used as the game background |
+| blank_states_img.gif | The blank US map used as the game background |
 | missing_states.csv | Auto-generated when you exit — lists states you didn't guess |
 
 > missing_states.csv is generated at runtime and is listed in .gitignore.
