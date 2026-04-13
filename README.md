@@ -19,7 +19,7 @@ When you exit, any states you missed are saved to missing_states.csv so you can 
 
 ### Installation
 
-`bash
+`
 git clone https://github.com/YOUR_USERNAME/us-states-game.git
 cd us-states-game
 pip install pandas
@@ -27,7 +27,7 @@ pip install pandas
 
 ### Run the game
 
-`bash
+`
 python main.py
 `
 
